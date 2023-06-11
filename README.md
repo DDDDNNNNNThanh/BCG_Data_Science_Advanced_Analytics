@@ -25,13 +25,13 @@ Your first task today is to understand what is going on with the client and to t
 You must formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. Communicate your thoughts and findings in an email to your AD, focusing on the data that you would need from the client and the analytical models you would use to test such a hypothesis.
 
 ### How to solve this task:
-♦ Remember what the key factors are for a customer deciding to stay with or switch providers
++ Remember what the key factors are for a customer deciding to stay with or switch providers
 
-♦ Think of data sources and fields that could be used to explore the contribution of various factors to a customer’s possible action
++ Think of data sources and fields that could be used to explore the contribution of various factors to a customer’s possible action
 
-♦ Ideally, what would a data frame of your choice look like – what should each column and row represent?
++ Ideally, what would a data frame of your choice look like – what should each column and row represent?
 
-♦ What kind of exploratory analyses on the relevant fields can give more insights about the customer's churn behavior?
++ What kind of exploratory analyses on the relevant fields can give more insights about the customer's churn behavior?
 
 # Task 2 - Exploratory Data Analysis
 Understanding the business through data
@@ -93,23 +93,23 @@ Ensure you’re able to explain the performance of your model, where did the mod
 
 ### How to solve this task: Sub-Task 1
 
-♦ Think of ways to evaluate a feature against a label.
++ Think of ways to evaluate a feature against a label.
 
-♦ Think of ways to add new features which would complement the already existing ones.
++ Think of ways to add new features which would complement the already existing ones.
 
-♦ Think of feature granularity.
++ Think of feature granularity.
 
-♦ Remove unnecessary features.
++ Remove unnecessary features.
 
 ### Sub-Task 2
 
-♦ Is this problem best represented as classification or regression?
++ Is this problem best represented as classification or regression?
 
-♦ What kind of model performance do you think is appropriate?
++ What kind of model performance do you think is appropriate?
 
-♦ Most importantly how would you measure such a performance?
++ Most importantly how would you measure such a performance?
 
-♦ How would you tie business metrics such as profits or savings to the model performance?
++ How would you tie business metrics such as profits or savings to the model performance?
 
 # Task 4 - Findings & Recommendations
 Presenting your results and giving recommended actions to the client
@@ -132,8 +132,8 @@ What is the most important number or metric to share with the client? What impac
 
 ### How to solve this task:
 
-♦ What do you think the client wants to hear? How much detail should you go into, especially with the technical details of your work?
++ What do you think the client wants to hear? How much detail should you go into, especially with the technical details of your work?
 
-♦ Always test what you write with the “so what?” test, i.e. sharing a fact, even an interesting one, only matters if the client can actually do something useful with it. E.g. 60% of your customers are from City A is pointless, but customers in City A should be prioritized for giving discount as they are among your most valuable ones, if true, is an actionable finding
++ Always test what you write with the “so what?” test, i.e. sharing a fact, even an interesting one, only matters if the client can actually do something useful with it. E.g. 60% of your customers are from City A is pointless, but customers in City A should be prioritized for giving discount as they are among your most valuable ones, if true, is an actionable finding
 
 
