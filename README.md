@@ -1,1 +1,2 @@
 # BCG_Data_Science_Advanced_Analytics
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_dKMMuTqiQ2Dk9FTsF_1686446505455_completion_certificate.pdf
