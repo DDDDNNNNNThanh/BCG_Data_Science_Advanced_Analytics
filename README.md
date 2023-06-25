@@ -1,6 +1,6 @@
 # BCG_Data_Science_Advanced_Analytics
 
-<img width="600" alt="image" src="https://github.com/DDDDNNNNNThanh/BCG_Data_Science_Advanced_Analytics/assets/110702728/8e99a8f6-c6aa-4ce6-8f9c-f12fe3f4d4c1">
+<img width="900" alt="image" src="https://github.com/DDDDNNNNNThanh/BCG_Data_Science_Advanced_Analytics/assets/110702728/8e99a8f6-c6aa-4ce6-8f9c-f12fe3f4d4c1">
 
 ## Task 1 - Business Understanding & Hypothesis Framing
 
